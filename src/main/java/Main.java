@@ -5,6 +5,6 @@ public class Main {
         String message = "Hello World!";
         System.out.println(message);
         System.out.println(message.length());
-
+//
     }
 }
